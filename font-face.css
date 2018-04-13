@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'golden_plains_-_demoregular';
+    src: url('font/golden_plains_-_demo-webfont.woff2') format('woff2'),
+        url('font/golden_plains_-_demo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

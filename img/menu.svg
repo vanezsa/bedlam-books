@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="27px" viewBox="0 0 49 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Menu button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bb-services-04" transform="translate(-135.000000, -72.000000)" fill="#F17E65">
+            <g id="header" transform="translate(135.000000, 68.000000)">
+                <path d="M0,4 L48.125,4 L48.125,9 L0,9 L0,4 Z M0,15 L48.125,15 L48.125,20 L0,20 L0,15 Z M0,26 L48.125,26 L48.125,31 L0,31 L0,26 Z" id="Menu-button"></path>
+            </g>
+        </g>
+    </g>
+</svg>
